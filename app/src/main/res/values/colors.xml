@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="white">#FDFBFE</color>
     <color name="blue">#0081FB</color>
     <color name="gray">#C8C8C8</color>
+    <color name="button_background">#2b2430</color>
+    <color name="button_border">#3a3541</color>
+    <color name="lower_button_background">#17151a</color>
+    <color name="menu_buttons_background">#3c3c3c</color>
 </resources>
